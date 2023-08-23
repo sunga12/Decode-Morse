@@ -16,7 +16,7 @@ def decode_word(word)
     .map do |char|
     decode_char char
   end
-    .join('')
+    .join(' ')
 end
 
 def decode(msg)
