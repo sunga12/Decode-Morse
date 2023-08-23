@@ -1,8 +1,4 @@
-<a name="readme-top"></a>
-  <h3><b>Decode Morse Code</b></h3>
-</div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -11,20 +7,25 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Decode Morse Code <a name="about-project"></a>
 
-**Decode Morse Code** is a project written ruby that decodes morse strings to text strings
+**Decode Morse Code** is a project written ruby that decodes morse strings to text.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -34,29 +35,22 @@
 - **Ruby**
 
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- **Decode Morse Code**
+- **Decode a Morse Code Message**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-<!-- 
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- Live Demo is not available yet
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -85,58 +79,41 @@ Example commands:
 ```
 -
 
-<!-- ### Install
+### Install
 
-Install this project with: -->
+Install this project with:
 
-<!--
+
 Example command:
 
 ```sh
   cd my-project
-  gem install
 ```
---->
+-
 
-<!-- ### Usage
+### Usage
 
-To run the project, execute the following command: -->
+To run the project, execute the following command:
 
-<!--
+
 Example command:
 
 ```sh
-  rails server
+  ruby decode.rb
 ```
---->
 
-<!-- ### Run tests
+### Run tests
 
-To run tests, run the following command: -->
+Tests are not available yet.
 
-<!--
-Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+### Deployment
 
-<!-- ### Deployment
+Deployment is not available yet.
 
-You can deploy this project using: -->
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -153,17 +130,13 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Decode Longer Messages]**
+- [ ] **Decode Longer Messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -173,7 +146,6 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -181,7 +153,6 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -190,10 +161,8 @@ I would like to thank Microverse for the chance to become a software developer.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
